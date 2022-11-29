@@ -1,0 +1,11 @@
+game_id,player1,player2,winner,player1_type,player2_type
+1,X,O,X,Human,Bot
+2,O,X,O,Human,Human
+3,O,X,O,Human,Bot
+4,O,X,X,Human,Bot
+5,X,O,X,Human,Human
+6,X,O,O,Bot,Human
+7,X,O,O,Bot,Human
+8,X,O,X,Bot,Human
+9,X,O,O,Human,Human
+10,X,O,X,Bot,Human
